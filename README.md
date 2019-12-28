@@ -143,6 +143,7 @@ You agree to indemnify and keep us indemnified against any claim, action, suit o
 The app does use third party services that may collect information used to identify you. Link to privacy policy of third party service providers used by the app:
 
 (a) [Google Play Services](https://policies.google.com/privacy)
+
 (b) [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
 11.2 As part of the normal operation of our Services, we collect, use and, in some cases, disclose information about you to third parties. Accordingly, we have developed this Privacy Policy in order for you to understand how we collect, use, communicate and disclose and make use of your personal information when you use the Services on the Mobile Application:-
