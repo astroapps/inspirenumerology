@@ -1,7 +1,7 @@
-## Inspire Numerology Pro
+## Inspire Numerology Calculator
 
 ### 1. TERMS OF USE
-By downloading, browsing, accessing or using this Inspire Numerology Pro mobile application (“Mobile Application”), you agree to be bound by these Terms and Conditions of Use. We reserve the right to amend these terms and conditions at any time. If you disagree with any of these Terms and Conditions of Use, you must immediately discontinue your access to the Mobile Application and your use of the services offered on the Mobile Application. Continued use of the Mobile Application will constitute acceptance of these Terms and Conditions of Use, as may be amended from time to time.
+By downloading, browsing, accessing or using this Inspire Numerology Calculator mobile application (“Mobile Application”), you agree to be bound by these Terms and Conditions of Use. We reserve the right to amend these terms and conditions at any time. If you disagree with any of these Terms and Conditions of Use, you must immediately discontinue your access to the Mobile Application and your use of the services offered on the Mobile Application. Continued use of the Mobile Application will constitute acceptance of these Terms and Conditions of Use, as may be amended from time to time.
 
 ### 2. DEFINITIONS
 In these Terms and Conditions of Use, the following capitalized terms shall have the following meanings, except where the context otherwise requires:
